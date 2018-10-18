@@ -27,3 +27,151 @@ a {
     display: flex;
     justify-content: space-around;
 }
+
+.aboutMain {
+    background-image: url("shooklora.JPG");
+    background-repeat: repeat;
+    background-size: 200px;
+    color: #8e8583;
+}
+
+.oh {
+    display: flex;
+    justify-content: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+p {
+    font-family: 'Cabin', sans-serif;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-start;
+}
+
+/*character page CSS*/
+
+#torna {
+    display: inline-block;
+    justify-content: center;
+    width: 200px;
+}
+
+#lora {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #953845;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#jin {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #3F4D79;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#haze {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #A64350;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#addam {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #E0DCB5;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#mythra {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #1BC197;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#minoth {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #A7976D;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#hugo {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #354C66;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#brighid {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #8379B8;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#aegaeon {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #7CAEDA;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#malos {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #3E3E5E;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#goback {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #826666;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+#characterpage {
+    text-align: center;
+}
+

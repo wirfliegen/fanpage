@@ -49,4 +49,3 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Use Google Fonts to add a new font to your site.
 - [ ] Using the box model properties, style the elements on your navigation bar.
 - [ ] Add a new page to your site.
-
