@@ -3,6 +3,7 @@
 
 /*characters page JS*/
 $(".alrest").hide();
+$("#characterInfo").show();
 $("#goback").hide();
 $("#name").hide();
 $("#info").hide();
@@ -209,6 +210,7 @@ $("#goback").click(function(){
     $("#goback").hide();
     $("#name").hide();
     $("#info").hide();
+    $("#characterInfo").show();
     $(".lorainfo").hide();
     $(".jininfo").hide();
     $(".hazeinfo").hide();
@@ -220,3 +222,5 @@ $("#goback").click(function(){
     $(".aegaeoninfo").hide();
     $(".malosinfo").hide();
 });
+
+$("#no").hide();

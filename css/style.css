@@ -32,7 +32,7 @@ a {
     background-image: url("shooklora.JPG");
     background-repeat: repeat;
     background-size: 200px;
-    color: #8e8583;
+    color: #5f8ace;
 }
 
 .oh {
@@ -40,6 +40,11 @@ a {
     justify-content: center;
 }
 
+.someOtherImages {
+    background-image: url("IMG_7967.PNG");
+    background-repeat: repeat;
+    background-size: 200px;
+}
 h1, h2, h3 {
     font-family: 'Cabin Sketch', cursive;
 }
@@ -52,9 +57,30 @@ p {
     display: flex;
     justify-content: flex-start;
 }
+/*about page CSS*/
+.aboutBody {
+    display: flex;
+}
 
+.aboutMain {
+    width: 60%;  
+}
+
+.someOtherImages {
+    width: 40%;
+}
 /*character page CSS*/
+.content {
+    display: flex;
+}
 
+.characterDiv {
+    width: 50%;
+}
+
+.wikiCopyPaste {
+    width: 50%;
+}
 #torna {
     display: inline-block;
     justify-content: center;
@@ -175,3 +201,12 @@ p {
     text-align: center;
 }
 
+/*gallery*/
+.gallery1, .gallery2, .gallery3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.thumbnail-image {
+    width: 200px;
+}
