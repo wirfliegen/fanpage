@@ -28,6 +28,12 @@ a {
     justify-content: space-around;
 }
 
+.uhh {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
 .aboutMain {
     background-image: url("shooklora.JPG");
     background-repeat: repeat;
