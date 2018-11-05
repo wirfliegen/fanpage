@@ -11,6 +11,10 @@ a {
     text-decoration: none;
 }
 
+p {
+    font-size: 18px;
+}
+
 .main {
     height: 100%;
 }
@@ -208,11 +212,15 @@ p {
 }
 
 /*gallery*/
-.gallery1, .gallery2, .gallery3 {
+.gallery {
     display: flex;
     justify-content: space-around;
 }
 
 .thumbnail-image {
     width: 200px;
+}
+
+.nice-image {
+    width: 400px;
 }

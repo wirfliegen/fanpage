@@ -222,5 +222,3 @@ $("#goback").click(function(){
     $(".aegaeoninfo").hide();
     $(".malosinfo").hide();
 });
-
-$("#no").hide();
