@@ -6,22 +6,22 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 1
 #### Planning
 - [x] Choose a theme that you want your fan page to be about. Be careful to choose something you know and are able to write about!
-- [ ] Find the images you will need for your homepage, about page and gallery page.
+- [x] Find the images you will need for your homepage, about page and gallery page.
 #### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/fanpage
 - [x] Fork this repository to your github account and clone to a new workspace
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
 #### HTML
 - [x] Change the header to display the name of the fan page on each html page
-- [ ] Link the a tags in the navbar to the correct .html files on each html page
-- [ ] Link the a tags surrounding social media icons to the correct social media accounts on each html page
-- [ ] Add text to the element with the class of leftPane to describe who/what your fanpage is about in about.html
-- [ ] Add images to the gallery thumbnails in gallery.html
+- [x] Link the a tags in the navbar to the correct .html files on each html page
+- [x] Link the a tags surrounding social media icons to the correct social media accounts on each html page
+- [x] Add text to the element with the class of leftPane to describe who/what your fanpage is about in about.html
+- [x] Add images to the gallery thumbnails in gallery.html
 #### CSS
-- [ ] Use CSS to change the background-color and/or font color on the page.
-- [ ] Use CSS to change the background-image of the div with the class of main
-- [ ] Use CSS to change the background-image of the div with the class of rightPane.
+- [x] Use CSS to change the background-color and/or font color on the page.
+- [x] Use CSS to change the background-image of the div with the class of main
+- [x] Use CSS to change the background-image of the div with the class of rightPane.
 
 #### Wrap
 - [ ] Push your changes!
