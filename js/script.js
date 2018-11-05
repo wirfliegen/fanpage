@@ -222,3 +222,6 @@ $("#goback").click(function(){
     $(".aegaeoninfo").hide();
     $(".malosinfo").hide();
 });
+
+/*about page*/
+$("#knockles").hide();
