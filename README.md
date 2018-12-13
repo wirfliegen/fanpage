@@ -24,28 +24,28 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Use CSS to change the background-image of the div with the class of rightPane.
 
 #### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your Fanpage website using the link on the Daily Session Document.
+- [x] Push your changes!
+- [x] Save and submit your Fanpage website using the link on the Daily Session Document.
 
 ## Day 2
 #### CSS
-- [ ] Use flexbox to center your heading. 
-- [ ] Use flexbox to format your navbar.
-- [ ] Use flexbox to format your footer.
-- [ ] Use flexbox to format your gallery page. 
-- [ ] Use flexbox to format your about page. 
+- [x] Use flexbox to center your heading. 
+- [x] Use flexbox to format your navbar.
+- [x] Use flexbox to format your footer.
+- [x] Use flexbox to format your gallery page. 
+- [x] Use flexbox to format your about page. 
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 #### CSS
-- [ ] Using the box model properties, style your thumbnails on the gallery page. 
+- [x] Using the box model properties, style your thumbnails on the gallery page. 
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Extensions
-- [ ] Use Google Fonts to add a new font to your site.
-- [ ] Using the box model properties, style the elements on your navigation bar.
-- [ ] Add a new page to your site.
+- [x] Use Google Fonts to add a new font to your site.
+- [x] Using the box model properties, style the elements on your navigation bar.
+- [x] Add a new page to your site.
